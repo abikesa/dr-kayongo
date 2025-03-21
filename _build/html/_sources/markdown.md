@@ -11,8 +11,6 @@ Subject: Strategic Planning Recommendations on Country Footprint, Crisis Respons
 
 ---
 
-GiveDirectly’s strategy of scaling impactful, efficient, and respectful interventions, combined with the goal of moving $500M annually by 2028, I recommend the following:
-
 ## I. Country Footprint Recommendations (2025-2028)
 
 ### A. Consolidate and Deepen National-Scale Programs: 
@@ -65,7 +63,7 @@ The objective is to maximize recipient impact and drive GiveDirectly’s long-te
      - Blockchain smart contracts for fraud-proof cash flows.
      - Graduated cash incentives for milestones (schooling, entrepreneurship).
      - Income-generating transfers with mentorship and peer groups.
-    - Community-pooled transfers (e.g., VSLA, as modeled successfully by CARE and detailed in my peer-reviewed article)[^4].
+     - Community-pooled transfers (e.g., VSLA, as modeled successfully by CARE and detailed in my peer-reviewed article)[^4].
 
    - **Technology and AI Integration – $3M:** Lessons from DRC fraud inform investments in blockchain, staff training, whistleblower apps, armored logistics, and cloud-based communication. Builds on prior work at Grameen Foundation and my dissertation[^5].
    - **Evidence Generation and Thought Leadership – $2M:** Conduct rigorous studies (RCTs, experimental design), publish findings, and position GD as a trusted advisor to governments, donors, and the global development community.
@@ -87,6 +85,8 @@ VP of Programs
 GiveDirectly
 
 ---
+
+## References
 
 [^1]: UN Sustainable Development Goal 1: https://www.globalgoals.org/goals/1-no-poverty/
 [^2]: Safaricom M-Pesa and Airtel Ethiopia mobile money platform launches (2023).
